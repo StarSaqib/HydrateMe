@@ -29,6 +29,14 @@ cd <directort_where_you_want_to_clone>
 git clone https://github.com/StarSaqib/HydrateMe.git
 cd <project_directory>
 
+Or else
+
+Go to git repository 
+https://github.com/StarSaqib/HydrateMe
+Click on "Code"
+Click on Download zip
+Extract downloaded zip.
+
 3) Open the Project:
 Double click the “Hydrate Me.xcodeproj” file in the project directory to open it in Xcode.
 
